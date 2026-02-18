@@ -7,9 +7,10 @@ class AppLogger {
       methodCount: 0, // show no method info
       colors: true,
       printEmojis: true,
-      lineLength: 50,
+      lineLength: 60,
     ),
   );
 
   static Logger get logger => _logger;
 }
+
