@@ -1,3 +1,5 @@
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+Ajuja001(ABDUSWAMADU AJUJA JOHN NIT/BIT/2023/2230)
+Upepokadashi(YOHANA JOHN UPEPO NIT/BIT/2023/2153)
+InnoRyzen(INOCENT ROBART MISALA NIT/BIT/2023/2297)
+Guguyaguguyapaul123(GUGUYA GUGUYA PAUL NIT/BIT/2023/2236)
+nikolasmamoto(MANASE JACKSON MAMOTO NIT/BIT/2023/2061)
